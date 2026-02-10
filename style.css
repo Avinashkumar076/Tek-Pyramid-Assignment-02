@@ -58,7 +58,7 @@ i{
 .main-area{
     position: absolute;
     top: 40%;
-    left: 32%;
+    left: 27%;
     display: flex;
     justify-content: center;
     color: white;
@@ -92,7 +92,7 @@ i{
     display: flex;
     justify-content: center;
     gap: 15px;
-    align-items: center;   
+    align-items: center;
 }
 .getStarted-btn{
     padding: 14px 25px 14px 23px;
