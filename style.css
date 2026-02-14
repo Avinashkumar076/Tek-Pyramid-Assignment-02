@@ -192,11 +192,11 @@ i{
     /* gap: 25px; */
 }
 .features-cards{
-    /* border: 2px solid greenyellow; */
     height: 300px;
     width: 295px;
     border-radius: 35px;
     position: relative;
+    margin-left: 15px;
     background: linear-gradient(to top left,#1d0a0a, #0f1020, #262e50);
 
 }
